@@ -17,6 +17,8 @@ This would help people form positive thinking habits, as well as keep track of t
 You can find our design documents in [our shared Google Drive folder.](https://drive.google.com/drive/folders/1DvnZiXmrA9gZa9MRPTe5XoLIlBV-TXkd?usp=sharing)  
 We used the prototyping tool Figma. Feel free to [try out our design !](https://www.figma.com/file/DEClNdggGmtuoC18Kt58aqHq/Final-Prototype)
 
+## Video Demo:
+[![Fake It 'Till You Make It](https://img.youtube.com/vi/Wt5ENiYZIO8/0.jpg)](https://www.youtube.com/watch?v=Wt5ENiYZIO8)
 
 <!---
 ## Welcome to GitHub Pages
