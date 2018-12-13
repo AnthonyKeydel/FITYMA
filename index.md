@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AnthonyKeydel/FITYMA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
