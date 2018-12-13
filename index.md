@@ -19,6 +19,8 @@ We used the prototyping tool Figma. Feel free to [try out our design !](https://
 
 ## Video Demo:
 [![Fake It 'Till You Make It](https://img.youtube.com/vi/Wt5ENiYZIO8/0.jpg)](https://www.youtube.com/watch?v=Wt5ENiYZIO8)
+https://www.youtube.com/watch?v=Wt5ENiYZIO8
+
 
 <!---
 ## Welcome to GitHub Pages
