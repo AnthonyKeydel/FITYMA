@@ -2,6 +2,23 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
+# Fake It 'Till You Make It
+
+A design assignment for CSCI 3002: Foundations of Human-Computer Interaction.
+
+We designed an app that would record your mood, and prompt you to enter in something positive in your life. 
+This would help people form positive thinking habits, as well as keep track of their mood.
+
+### Project by:
+* Anthony Keydel  | [AnthonyKeydel@colorado.edu](mailto:AnthonyKeydel@colorado.edu)
+* Kyle Faucher    | kyfa3283@colorado.edu
+* Jacob Heller    | jahe4067@colorado.edu
+
+You can find our design documents in [our shared Google Drive folder.](https://drive.google.com/drive/folders/1DvnZiXmrA9gZa9MRPTe5XoLIlBV-TXkd?usp=sharing)
+We used the prototyping tool Figma. You can try out our design [here!](https://www.figma.com/file/DEClNdggGmtuoC18Kt58aqHq/Final-Prototype)
+
+
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AnthonyKeydel/FITYMA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -39,3 +56,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
