@@ -10,12 +10,12 @@ We designed an app that would record your mood, and prompt you to enter in somet
 This would help people form positive thinking habits, as well as keep track of their mood.
 
 ### Project by:
-* Anthony Keydel  | [AnthonyKeydel@colorado.edu](mailto:AnthonyKeydel@colorado.edu)
-* Kyle Faucher    | kyfa3283@colorado.edu
-* Jacob Heller    | jahe4067@colorado.edu
+* Anthony Keydel   |   [AnthonyKeydel@colorado.edu](mailto:AnthonyKeydel@colorado.edu)
+* Kyle Faucher     |   kyfa3283@colorado.edu
+* Jacob Heller     |   jahe4067@colorado.edu
 
-You can find our design documents in [our shared Google Drive folder.](https://drive.google.com/drive/folders/1DvnZiXmrA9gZa9MRPTe5XoLIlBV-TXkd?usp=sharing)
-We used the prototyping tool Figma. You can try out our design [here!](https://www.figma.com/file/DEClNdggGmtuoC18Kt58aqHq/Final-Prototype)
+You can find our design documents in [our shared Google Drive folder.](https://drive.google.com/drive/folders/1DvnZiXmrA9gZa9MRPTe5XoLIlBV-TXkd?usp=sharing)  
+We used the prototyping tool Figma. Feel free to [try out our design !](https://www.figma.com/file/DEClNdggGmtuoC18Kt58aqHq/Final-Prototype)
 
 
 <!---
